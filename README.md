@@ -6,9 +6,9 @@ Here are some simple experiments I was doing while learning it.
 
 ### Instruction to build...
 
-Assuming LaTeX is already installed in yout system, of-course! :-)...
+Assuming LaTeX is already installed in your system, of-course! :-)...
 
-For each LaTeX source with the filename <xyz.ltx>, you can simply try the following: 
+For each LaTeX source with the filename <xyz.ltx>, you can simply use the following: 
 
 ``` shell
 $ pdflatex <xyz.ltx> <RETURN>
