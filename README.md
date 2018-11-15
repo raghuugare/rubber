@@ -1,4 +1,4 @@
-# My experiments with LaTeX...! :-)
+# My experiments with LaTeX...
 
 When I fell in love with Donald Knuth's TeX, I naturally also came across LaTeX by Leslie Lamport.
 
