@@ -1,6 +1,6 @@
 # My experiments with LaTeX...
 
-When I fell in love with Donald Knuth's TeX, I naturally also came across LaTeX by Leslie Lamport.
+When I fell in love with Donald Knuth's TeX, I naturally also came across LaTeX (which build on TeX) by Leslie Lamport.
 
 Here are some simple experiments I was doing while learning it.
 
